@@ -12,6 +12,6 @@ class Project
     binding.pry
   end
 
-  
+
 
 end
